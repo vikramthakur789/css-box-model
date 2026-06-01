@@ -1,0 +1,35 @@
+div{
+    height:100px;
+    width:100px;
+    background-color:rgb(175, 175, 220);
+    border-width:2px;
+    border-style:solid;
+    border-color:rgb(129, 47, 47) 
+    border:2px solid rgb(129, 47,47)
+} 
+
+h1{
+    height:200px;
+    width:200px;
+    background-color:rgb(175, 129, 129);
+    border-width:3px;
+    border-style:dotted;
+    border-color:rgb(76, 48, 178);
+    text-align:center;
+    border-radius:50%;  
+    padding-left:50px;
+    padding-right:15px;
+    padding-top:30px;
+    padding-bottom:40px; 
+    padding:50px 15px 30px 40px;
+} 
+
+div{
+    height:100px;
+    width:100px;
+    background-color:brown;
+    border:3px solid black;
+    /* border-radius:50%; */
+    padding:40px;
+    margin:20px 40px 60px 120px
+}
